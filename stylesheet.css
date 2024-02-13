@@ -78,7 +78,7 @@ section.index
 section.index > img
 {
     grid-area: 1/1/4/2;
-    margin-right: 1em;
+    margin-right: 15px;
     border-radius: 1cm;
 }
 section.index a
